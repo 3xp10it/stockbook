@@ -2,6 +2,18 @@
 
 对豆瓣书籍中的证券相关经典书籍进行收录并按照 评分\*1.5+评论数\*1 的结果从高到低排名
 
+todo:
+按如下重新排名
+weighted rating (WR) = (v ÷ (v+m)) × R + (m ÷ (v+m)) × C 
+
+where: 
+
+R = average for the movie (mean) = (Rating) -单部电影的得分 
+v = number of votes for the movie = (votes) -单部电影的有效评分人数 
+m = minimum votes required to be listed in the Top 250 (currently 25000) -入选top250榜单所需最低的有效评分人数 
+C = the mean vote across the whole report (currently 7.0) -所有影片的平均分 
+
+
 ## 排名
 
 | 书名                                                   | 链接                                      | 评分     |
