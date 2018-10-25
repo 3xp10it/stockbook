@@ -24,12 +24,6 @@ for line in lines:
         v=markshu
         m=500
         WR=(v/(v+m))*R+(m/(v+m))*C
-        if "贼巢" in line:
-            print(1,WR)
-            print(v,m,R,C)
-        if "股票大作手操盘术" in line:
-            print(2,WR)
-            print(v,m,R,C)
         content_list.append({'line':line,'WR':WR})
 sorted_content_list=sorted(content_list,key=lambda x:x['WR'],reverse=True)
 for item in sorted_content_list:
