@@ -40,6 +40,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 战胜华尔街                                             | https://book.douban.com/subject/2189613/  | 8.4*1950 |
 | 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.8*595  |
 | 巴菲特的护城河                                         | https://book.douban.com/subject/4100680/  | 8.5*1161 |
+| 怎样选择成长股                                         | https://book.douban.com/subject/1007459/  | 8.5*1091 |
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
