@@ -1,6 +1,6 @@
 import re
 import pdb
-with open("stockbook.txt","r+") as f:
+with open("sorted_stock_book.txt","r+") as f:
     lines=f.readlines()
 with open("format_stock_book.txt","a+") as f:
     f.write("|书名|链接|评分|\n")
