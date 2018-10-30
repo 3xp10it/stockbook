@@ -18,6 +18,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 | 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
+| 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*6390 |
 | 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 9.0*3339 |
 | 期货市场技术分析                                       | https://book.douban.com/subject/1089991/  | 9.1*1955 |
 | 日本蜡烛图技术                                         | https://book.douban.com/subject/1087737/  | 8.9*3163 |
