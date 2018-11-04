@@ -57,6 +57,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 投资交易笔记                                           | https://book.douban.com/subject/6736909/  | 8.5*401  |
 | 幽灵的礼物                                             | https://book.douban.com/subject/2344068/  | 8.6*301  |
 | 华尔街:野心不眠                                        | https://book.douban.com/subject/27067316/ | 8.9*209  |
+| 金融怪杰                                               | https://book.douban.com/subject/26376773/ | 9.0*164  |
 | 系统交易方法                                           | https://book.douban.com/subject/1281186/  | 8.6*235  |
 | 重剑无锋                                               | https://book.douban.com/subject/10862869/ | 8.7*207  |
 | 教你炒股票                                             | https://book.douban.com/subject/25779081/ | 8.7*199  |
