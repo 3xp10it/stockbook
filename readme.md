@@ -43,6 +43,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 巴菲特的护城河                                         | https://book.douban.com/subject/4100680/  | 8.5*1161 |
 | 怎样选择成长股                                         | https://book.douban.com/subject/1007459/  | 8.5*1091 |
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
+| 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.4*1457 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
 | 通向财务自由之路                                       | https://book.douban.com/subject/2382899/  | 8.4*1108 |
@@ -68,6 +69,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 对冲基金奇才                                           | https://book.douban.com/subject/24153567/ | 9.0*143  |
 | 拯救华尔街                                             | https://book.douban.com/subject/3596432/  | 8.8*162  |
 | 股市天才                                               | https://book.douban.com/subject/6395844/  | 8.4*255  |
+| 股市操练大全                                           | https://book.douban.com/subject/1006415/  | 8.2*357  |
 | 道氏理论                                               | https://book.douban.com/subject/3195672/  | 8.2*313  |
 | 营救华尔街                                             | https://book.douban.com/subject/1289999/  | 8.8*121  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*227  |
@@ -76,8 +78,10 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 主动投资组合管理                                       | https://book.douban.com/subject/25984361/ | 9.3*71   |
 | 大投机家(修订版)                                       | https://book.douban.com/subject/26631278/ | 8.9*84   |
 | 投资交易笔记(续)                                       | https://book.douban.com/subject/26894260/ | 8.8*87   |
+| 操盘建议-全球顶尖交易员的成功实践和心路历程            | https://book.douban.com/subject/1047898/  | 8.4*134  |
 | 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*94   |
 | 股票魔法师Ⅱ                                            | https://book.douban.com/subject/30179602/ | 9.5*42   |
+| 投资正途                                               | https://book.douban.com/subject/1524751/  | 8.0*200  |
 | 黄金屋                                                 | https://book.douban.com/subject/25779427/ | 9.1*45   |
 | 华尔街证券分析                                         | https://book.douban.com/subject/1023812/  | 8.9*47   |
 | 趋势交易                                               | https://book.douban.com/subject/27069088/ | 9.0*39   |
@@ -95,3 +99,4 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 证券投机的艺术                                         | https://book.douban.com/subject/26864005/ | 8.7*23   |
 | 股市趋势技术分析(原书第10版)                           | https://book.douban.com/subject/27175780/ | 8.2*39   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
+
