@@ -45,6 +45,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
+| 通向财务自由之路                                       | https://book.douban.com/subject/2382899/  | 8.4*1108 |
 | 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.5*677  |
 | 走进我的交易室                                         | https://book.douban.com/subject/2341113/  | 8.6*509  |
 | 金融炼金术                                             | https://book.douban.com/subject/6828176/  | 8.6*453  |
@@ -55,6 +56,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 炒股的智慧(第四版)                                     | https://book.douban.com/subject/26849910/ | 9.1*217  |
 | 邓普顿教你逆向投资                                     | https://book.douban.com/subject/5314887/  | 8.2*1094 |
 | 投资交易笔记                                           | https://book.douban.com/subject/6736909/  | 8.5*401  |
+| 走出幻觉走向成熟                                       | https://book.douban.com/subject/11525290/ | 8.4*486  |
 | 幽灵的礼物                                             | https://book.douban.com/subject/2344068/  | 8.6*301  |
 | 华尔街:野心不眠                                        | https://book.douban.com/subject/27067316/ | 8.9*209  |
 | 金融怪杰                                               | https://book.douban.com/subject/26376773/ | 9.0*164  |
@@ -90,4 +92,5 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 3小时快学期权                                          | https://book.douban.com/subject/26798608/ | 8.6*30   |
 | 一個投機者的告白之証券心理學                           | https://book.douban.com/subject/1333847/  | 8.8*22   |
 | 证券投机的艺术                                         | https://book.douban.com/subject/26864005/ | 8.7*23   |
+| 股市趋势技术分析(原书第10版)                           | https://book.douban.com/subject/27175780/ | 8.2*39   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
