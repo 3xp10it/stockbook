@@ -68,6 +68,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 对冲基金奇才                                           | https://book.douban.com/subject/24153567/ | 9.0*143  |
 | 拯救华尔街                                             | https://book.douban.com/subject/3596432/  | 8.8*162  |
 | 股市天才                                               | https://book.douban.com/subject/6395844/  | 8.4*255  |
+| 道氏理论                                               | https://book.douban.com/subject/3195672/  | 8.2*313  |
 | 营救华尔街                                             | https://book.douban.com/subject/1289999/  | 8.8*121  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*227  |
 | 创意,是一笔灵魂交易                                    | https://book.douban.com/subject/11517171/ | 8.6*140  |
