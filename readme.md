@@ -20,7 +20,6 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 | 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
-| 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*6390 |
 | 期货市场技术分析                                       | https://book.douban.com/subject/1089991/  | 9.1*1955 |
 | 日本蜡烛图技术                                         | https://book.douban.com/subject/1087737/  | 8.9*3163 |
 | 炒股的智慧                                             | https://book.douban.com/subject/1182173/  | 8.9*2165 |
@@ -88,11 +87,11 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 股市趋势技术分析(原书第10版)                           | https://book.douban.com/subject/27175780/ | 8.2*39   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
 
-
 ### 投资
 
 | 书名                     | 链接                                      | 评分     |
 |--------------------------|-------------------------------------------|----------|
+| 穷查理宝典               | https://book.douban.com/subject/5346110/  | 9.0*6390 |
 | 聪明的投资者             | https://book.douban.com/subject/5243775/  | 9.0*3339 |
 | 投资最重要的事           | https://book.douban.com/subject/10799082/ | 8.8*2375 |
 | 投资中最简单的事         | https://book.douban.com/subject/26163553/ | 8.7*3262 |
