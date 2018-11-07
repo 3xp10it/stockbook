@@ -1,7 +1,9 @@
 import pdb
 import os
 import re
-with open("stockbook.txt","r+") as f:
+import sys
+filename=sys.argv[1]
+with open(filename,"r+") as f:
     lines=f.readlines()
 content_list=[]
 fenshu_list=[]
