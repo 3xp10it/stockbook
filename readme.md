@@ -89,7 +89,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 ### 投资
 
-| 书名                                                   | 链接                                      | 评分     |
+| 书名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*6390 |
 | 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 9.0*3339 |
@@ -108,7 +108,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 ### Auxilary
 
-| 书名                                                   | 链接                                      | 评分     |
+| 书名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 乱世华尔街                                             | https://book.douban.com/subject/5921785/  | 8.8*1419 |
 | 伟大的博弈                                             | https://book.douban.com/subject/4012143/  | 8.6*1768 |
