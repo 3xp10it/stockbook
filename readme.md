@@ -1,10 +1,3 @@
-<style>
-table th: first-of-type {
-width: 457px;
-}
-</style>
-
-
 ## About
 
 对豆瓣书籍中的证券相关经典书籍进行收录并按照如下算法计算的结果从高到低排名
@@ -105,7 +98,6 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*227  |
-| 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*94   |
 
 ### Auxilary
 
