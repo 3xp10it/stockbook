@@ -4,7 +4,6 @@ width: 457px;
 }
 </style>
 
-<a href="https://www.baidu.com">test</a>
 
 ## About
 
@@ -26,6 +25,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 ### 投机
 
+{:.foo}
 | 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 期货市场技术分析                                       | https://book.douban.com/subject/1089991/  | 9.1*1955 |
@@ -88,6 +88,9 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 股市趋势技术分析(原书第10版)                           | https://book.douban.com/subject/27175780/ | 8.2*39   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
 
+.foo {
+  background: blue;
+}
 
 ### 投资
 
