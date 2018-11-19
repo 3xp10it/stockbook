@@ -79,10 +79,11 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 证券投机的艺术                                         | https://book.douban.com/subject/26864005/ | 8.7*23   |
 | 股市趋势技术分析(原书第10版)                           | https://book.douban.com/subject/27175780/ | 8.2*39   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
+|--------------------------------------------------------|-------------------------------------------|----------|
 
 ### 投资
 
-| 书名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | 链接                                      | 评分     |
+| 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*6390 |
 | 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 9.0*3339 |
@@ -98,10 +99,12 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*227  |
+| 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*94   |
+|--------------------------------------------------------|-------------------------------------------|----------|
 
 ### Auxilary
 
-| 书名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | 链接                                      | 评分     |
+| 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 乱世华尔街                                             | https://book.douban.com/subject/5921785/  | 8.8*1419 |
 | 伟大的博弈                                             | https://book.douban.com/subject/4012143/  | 8.6*1768 |
@@ -109,4 +112,5 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.8*595  |
 | 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.4*1457 |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
-
+| 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*94   |
+|--------------------------------------------------------|-------------------------------------------|----------|
