@@ -24,16 +24,10 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 日本蜡烛图技术                                         | https://book.douban.com/subject/1087737/  | 8.9*3163 |
 | 炒股的智慧                                             | https://book.douban.com/subject/1182173/  | 8.9*2165 |
 | 股票大作手回忆录                                       | https://book.douban.com/subject/5382213/  | 8.9*1950 |
-| 乱世华尔街                                             | https://book.douban.com/subject/5921785/  | 8.8*1419 |
 | 史丹·温斯坦称傲牛熊市的秘密                            | https://book.douban.com/subject/3107581/  | 9.0*708  |
-| 伟大的博弈                                             | https://book.douban.com/subject/4012143/  | 8.6*1768 |
 | 专业投机原理                                           | https://book.douban.com/subject/3027464/  | 8.6*1157 |
 | 股票大作手操盘术                                       | https://book.douban.com/subject/1131736/  | 8.6*1149 |
 | 海龟交易法则                                           | https://book.douban.com/subject/2339892/  | 8.5*1341 |
-| 解读基金                                               | https://book.douban.com/subject/2051332/  | 8.4*2040 |
-| 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.8*595  |
-| 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.4*1457 |
-| 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
 | 通向财务自由之路                                       | https://book.douban.com/subject/2382899/  | 8.4*1108 |
 | 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.5*677  |
 | 走进我的交易室                                         | https://book.douban.com/subject/2341113/  | 8.6*509  |
@@ -42,7 +36,6 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 说谎者的扑克牌                                         | https://book.douban.com/subject/1972412/  | 8.1*2693 |
 | 期权、期货及其他衍生产品                               | https://book.douban.com/subject/3519481/  | 8.8*316  |
 | 梦想与浮沉                                             | https://book.douban.com/subject/26695863/ | 8.7*343  |
-| 炒股的智慧(第四版)                                     | https://book.douban.com/subject/26849910/ | 9.1*217  |
 | 邓普顿教你逆向投资                                     | https://book.douban.com/subject/5314887/  | 8.2*1094 |
 | 投资交易笔记                                           | https://book.douban.com/subject/6736909/  | 8.5*401  |
 | 走出幻觉走向成熟                                       | https://book.douban.com/subject/11525290/ | 8.4*486  |
@@ -87,21 +80,34 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 股市趋势技术分析(原书第10版)                           | https://book.douban.com/subject/27175780/ | 8.2*39   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
 
+
 ### 投资
 
-| 书名                     | 链接                                      | 评分     |
-|--------------------------|-------------------------------------------|----------|
-| 穷查理宝典               | https://book.douban.com/subject/5346110/  | 9.0*6390 |
-| 聪明的投资者             | https://book.douban.com/subject/5243775/  | 9.0*3339 |
-| 投资最重要的事           | https://book.douban.com/subject/10799082/ | 8.8*2375 |
-| 投资中最简单的事         | https://book.douban.com/subject/26163553/ | 8.7*3262 |
-| 彼得·林奇的成功投资      | https://book.douban.com/subject/4827219/  | 9.1*753  |
-| 证券分析                 | https://book.douban.com/subject/24092345/ | 9.2*649  |
-| 股市真规则               | https://book.douban.com/subject/1728725/  | 8.9*1078 |
-| 股市进阶之道             | https://book.douban.com/subject/25829645/ | 8.8*778  |
-| 战胜华尔街               | https://book.douban.com/subject/2189613/  | 8.4*1950 |
-| 巴菲特的护城河           | https://book.douban.com/subject/4100680/  | 8.5*1161 |
-| 怎样选择成长股           | https://book.douban.com/subject/1007459/  | 8.5*1091 |
-| 投资学                   | https://book.douban.com/subject/1420638/  | 8.4*1478 |
-| 策略投资                 | https://book.douban.com/subject/10568233/ | 9.0*369  |
-| 证券分析师的最佳实践指南 | https://book.douban.com/subject/10441758/ | 8.3*227  |
+| 书名                                                   | 链接                                      | 评分     |
+|--------------------------------------------------------|-------------------------------------------|----------|
+| 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*6390 |
+| 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 9.0*3339 |
+| 投资最重要的事                                         | https://book.douban.com/subject/10799082/ | 8.8*2375 |
+| 投资中最简单的事                                       | https://book.douban.com/subject/26163553/ | 8.7*3262 |
+| 彼得·林奇的成功投资                                    | https://book.douban.com/subject/4827219/  | 9.1*753  |
+| 证券分析                                               | https://book.douban.com/subject/24092345/ | 9.2*649  |
+| 股市真规则                                             | https://book.douban.com/subject/1728725/  | 8.9*1078 |
+| 股市进阶之道                                           | https://book.douban.com/subject/25829645/ | 8.8*778  |
+| 战胜华尔街                                             | https://book.douban.com/subject/2189613/  | 8.4*1950 |
+| 巴菲特的护城河                                         | https://book.douban.com/subject/4100680/  | 8.5*1161 |
+| 怎样选择成长股                                         | https://book.douban.com/subject/1007459/  | 8.5*1091 |
+| 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
+| 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
+| 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*227  |
+
+### Auxilary
+
+| 书名                                                   | 链接                                      | 评分     |
+|--------------------------------------------------------|-------------------------------------------|----------|
+| 乱世华尔街                                             | https://book.douban.com/subject/5921785/  | 8.8*1419 |
+| 伟大的博弈                                             | https://book.douban.com/subject/4012143/  | 8.6*1768 |
+| 解读基金                                               | https://book.douban.com/subject/2051332/  | 8.4*2040 |
+| 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.8*595  |
+| 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.4*1457 |
+| 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
+
