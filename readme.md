@@ -1,3 +1,9 @@
+<style>
+table th: first-of-type {
+width: 457px;
+}
+</style>
+
 ## About
 
 对豆瓣书籍中的证券相关经典书籍进行收录并按照如下算法计算的结果从高到低排名
