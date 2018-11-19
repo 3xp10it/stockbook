@@ -25,7 +25,6 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 ### 投机
 
-{:.foo}
 | 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 期货市场技术分析                                       | https://book.douban.com/subject/1089991/  | 9.1*1955 |
@@ -88,13 +87,9 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 股市趋势技术分析(原书第10版)                           | https://book.douban.com/subject/27175780/ | 8.2*39   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
 
-.foo {
-  background: blue;
-}
-
 ### 投资
 
-| 书名 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 链接                                      | 评分     |
+| 书名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*6390 |
 | 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 9.0*3339 |
@@ -110,6 +105,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*227  |
+| 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*94   |
 
 ### Auxilary
 
