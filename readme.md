@@ -29,9 +29,8 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 股票大作手操盘术                                       | https://book.douban.com/subject/1131736/  | 8.6*1149 |
 | 海龟交易法则                                           | https://book.douban.com/subject/2339892/  | 8.5*1341 |
 | 通向财务自由之路                                       | https://book.douban.com/subject/2382899/  | 8.4*1108 |
-| 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.5*677  |
 | 走进我的交易室                                         | https://book.douban.com/subject/2341113/  | 8.6*509  |
-| 金融炼金术                                             | https://book.douban.com/subject/6828176/  | 8.6*453  |
+| 以交易为生                                             | https://book.douban.com/subject/2031890/  | 8.3*1054 |
 | 荣辱20年                                               | https://book.douban.com/subject/4137182/  | 8.2*1434 |
 | 说谎者的扑克牌                                         | https://book.douban.com/subject/1972412/  | 8.1*2693 |
 | 期权、期货及其他衍生产品                               | https://book.douban.com/subject/3519481/  | 8.8*316  |
@@ -107,8 +106,10 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 |--------------------------------------------------------|-------------------------------------------|----------|
 | 乱世华尔街                                             | https://book.douban.com/subject/5921785/  | 8.8*1419 |
 | 伟大的博弈                                             | https://book.douban.com/subject/4012143/  | 8.6*1768 |
+| 金融炼金术                                             | https://book.douban.com/subject/1058131/  | 8.4*2189 |
 | 解读基金                                               | https://book.douban.com/subject/2051332/  | 8.4*2040 |
 | 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.8*595  |
 | 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.4*1457 |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
+| 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.5*677  |
 |---------------------------------------------------------|-------------------------------------------|---------|
