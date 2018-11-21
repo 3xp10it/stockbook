@@ -53,12 +53,15 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 道氏理论                                               | https://book.douban.com/subject/3195672/  | 8.2*313  |
 | 营救华尔街                                             | https://book.douban.com/subject/1289999/  | 8.8*121  |
 | 创意,是一笔灵魂交易                                    | https://book.douban.com/subject/11517171/ | 8.6*140  |
+| 高胜算操盘                                             | https://book.douban.com/subject/1799839/  | 8.2*255  |
 | 贼巢                                                   | https://book.douban.com/subject/26748262/ | 8.4*174  |
 | 主动投资组合管理                                       | https://book.douban.com/subject/25984361/ | 9.3*71   |
 | 大投机家(修订版)                                       | https://book.douban.com/subject/26631278/ | 8.9*84   |
 | 投资交易笔记(续)                                       | https://book.douban.com/subject/26894260/ | 8.8*87   |
 | 操盘建议-全球顶尖交易员的成功实践和心路历程            | https://book.douban.com/subject/1047898/  | 8.4*134  |
+| 日本蜡烛图技术新解                                     | https://book.douban.com/subject/6801745/  | 8.1*228  |
 | 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*94   |
+| 高级技术分析                                           | https://book.douban.com/subject/2220884/  | 8.1*184  |
 | 股票魔法师Ⅱ                                            | https://book.douban.com/subject/30179602/ | 9.5*42   |
 | 投资正途                                               | https://book.douban.com/subject/1524751/  | 8.0*200  |
 | 黄金屋                                                 | https://book.douban.com/subject/25779427/ | 9.1*45   |
@@ -98,6 +101,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1478 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*369  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*227  |
+| 约翰.聂夫的成功投资                                    | https://book.douban.com/subject/3060535/  | 8.1*353  |
 |---------------------------------------------------------|-------------------------------------------|---------|
 
 ### Auxilary
@@ -112,4 +116,5 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.4*1457 |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*854  |
 | 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.5*677  |
+| 在股市大崩溃前抛出的人                                 | https://book.douban.com/subject/3393534/  | 8.3*251  |
 |---------------------------------------------------------|-------------------------------------------|---------|
