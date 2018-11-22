@@ -61,6 +61,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 操盘建议-全球顶尖交易员的成功实践和心路历程            | https://book.douban.com/subject/1047898/  | 8.4*134  |
 | 日本蜡烛图技术新解                                     | https://book.douban.com/subject/6801745/  | 8.1*228  |
 | 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*94   |
+| 筹码分布                                               | https://book.douban.com/subject/1207859/  | 8.5*103  |
 | 高级技术分析                                           | https://book.douban.com/subject/2220884/  | 8.1*184  |
 | 股票魔法师Ⅱ                                            | https://book.douban.com/subject/30179602/ | 9.5*42   |
 | 投资正途                                               | https://book.douban.com/subject/1524751/  | 8.0*200  |
