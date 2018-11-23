@@ -2,6 +2,18 @@ import pdb
 import os
 import re
 import sys
+import requests
+def get_douban_book_score(link):
+    rsp=requests.get(link)
+    html=rsp.text
+    try:
+        rating_num=re.search(r'<strong class="ll rating_num " property="v:average"> (\S+) </strong>',html).group(1)
+        rating_people=re.search(r'<a href="collections" class="rating_people"><span property="v:votes">(\d*)</span>人评价</a>',html).group(1)
+    except:
+        print("get book score error,check the code")
+        sys.exit(0)
+    return rating_num,rating_people
+    
 filename=sys.argv[1]
 with open(filename,"r+") as f:
     lines=f.readlines()
@@ -18,16 +30,15 @@ C=sum(fenshu_list)/len(fenshu_list)
 C=7.5
 
 for line in lines:
+    link=re.search(r"(http\S+)",line).group(1)
+    fenshu,markshu=get_douban_book_score(link)
     groups=re.split("\s",line)
-    score=groups[-2]
-    if re.match(r"^\d.*\d$",score):
-        fenshu=float(score.split("*")[0])
-        markshu=float(score.split("*")[1])
-        R=fenshu
-        v=markshu
-        m=500
-        WR=(v/(v+m))*R+(m/(v+m))*C
-        content_list.append({'line':line,'WR':WR})
+    R=float(fenshu)
+    v=float(markshu)
+    m=500
+    WR=(v/(v+m))*R+(m/(v+m))*C
+    line=groups[0]+"    "+link+"    "+fenshu+"*"+markshu+"\n"
+    content_list.append({'line':line,'WR':WR})
 sorted_content_list=sorted(content_list,key=lambda x:x['WR'],reverse=True)
 for item in sorted_content_list:
     with open("sorted_stock_book.txt","a+") as f:
