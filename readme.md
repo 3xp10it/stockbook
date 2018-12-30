@@ -75,6 +75,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 7天学会短线炒股技巧                                    | https://book.douban.com/subject/26662486/ | 9.0*22   |
 | 一個投機者的告白之証券心理學                           | https://book.douban.com/subject/1333847/  | 8.8*22   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
+|---------------------------------------------------------|-------------------------------------------|---------|
 
 ### 投资
 
@@ -96,7 +97,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 重剑无锋                                               | https://book.douban.com/subject/10862869/ | 8.7*210  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*234  |
 | 约翰.聂夫的成功投资                                    | https://book.douban.com/subject/3060535/  | 8.1*354  |
-| 100倍超级强势股:我如何在28个月内用4.8万从股市赚到680万 | https://book.douban.com/subject/26647310/ | 8.6*104  |
+|---------------------------------------------------------|-------------------------------------------|---------|
 
 ### Auxilary
 
