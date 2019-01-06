@@ -53,3 +53,6 @@
 高胜算操盘                      https://book.douban.com/subject/1799839/    8.2*255
 筹码分布                        https://book.douban.com/subject/1207859/    8.5*103
 金融市场技术分析                https://book.douban.com/subject/4906492/    8.9*464
+“错误”的行为                    https://book.douban.com/subject/26697774/   8.4*885
+非理性繁荣（第三版）            https://book.douban.com/subject/26803982/   8.7*168
+超越恐惧和贪婪                  https://book.douban.com/subject/1320298/    8.0*159
