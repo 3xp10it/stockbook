@@ -75,6 +75,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 短线交易秘诀                                           | https://book.douban.com/subject/1963544/  | 7.7*423  |
 | 3小时快学期权                                          | https://book.douban.com/subject/26798608/ | 8.6*45   |
 | 证券投机的艺术                                         | https://book.douban.com/subject/26864005/ | 8.8*37   |
+| 股市博弈论                                             | https://book.douban.com/subject/2202515/  | 8.0*99   |
 | 股票-长线法宝                                          | https://book.douban.com/subject/1043958/  | 8.6*38   |
 | 期权与期货市场基本原理                                 | https://book.douban.com/subject/6525058/  | 8.9*27   |
 | 7天学会短线炒股技巧                                    | https://book.douban.com/subject/26662486/ | 9.0*22   |
