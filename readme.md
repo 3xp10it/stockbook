@@ -61,6 +61,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 高级技术分析                                           | https://book.douban.com/subject/2220884/  | 8.1*186  |
 | 投资正途                                               | https://book.douban.com/subject/1524751/  | 8.0*206  |
 | 趋势交易                                               | https://book.douban.com/subject/27069088/ | 9.0*53   |
+| 1000%的男人                                            | https://book.douban.com/subject/1951858/  | 8.0*164  |
 | 超越恐惧和贪婪                                         | https://book.douban.com/subject/1320298/  | 8.0*160  |
 | 黄金屋                                                 | https://book.douban.com/subject/25779427/ | 8.7*54   |
 | 华尔街证券分析                                         | https://book.douban.com/subject/1023812/  | 8.8*48   |
