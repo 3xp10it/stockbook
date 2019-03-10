@@ -41,7 +41,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 教你炒股票                                             | https://book.douban.com/subject/25779081/ | 8.7*217  |
 | 华尔街幽灵                                             | https://book.douban.com/subject/3027457/  | 8.1*704  |
 | 对冲基金奇才                                           | https://book.douban.com/subject/24153567/ | 8.9*161  |
-| 非理性繁荣（第三版）                                   | https://book.douban.com/subject/26803982/ | 8.6*207  |
+| 非理性繁荣(第三版)                                   | https://book.douban.com/subject/26803982/ | 8.6*207  |
 | 克罗谈投资策略                                         | https://book.douban.com/subject/1160483/  | 8.0*763  |
 | 股市操练大全                                           | https://book.douban.com/subject/1006415/  | 8.2*365  |
 | 道氏理论                                               | https://book.douban.com/subject/3195672/  | 8.2*330  |
@@ -87,7 +87,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 | 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
-| 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*7487 |
+| 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 9.0*7488 |
 | 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 9.0*3761 |
 | 投资最重要的事                                         | https://book.douban.com/subject/10799082/ | 8.8*2651 |
 | 投资中最简单的事                                       | https://book.douban.com/subject/26163553/ | 8.7*3735 |
@@ -101,10 +101,14 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 漫步华尔街                                             | https://book.douban.com/subject/3043970/  | 8.4*1519 |
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1504 |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*402  |
+| 金融学                                                 | https://book.douban.com/subject/1017213/  | 8.4*808  |
+| 金钱游戏                                               | https://book.douban.com/subject/1253945/  | 8.5*359  |
+| 罗杰斯环球投资旅行                                     | https://book.douban.com/subject/1069660/  | 8.4*403  |
 | 重剑无锋                                               | https://book.douban.com/subject/10862869/ | 8.7*219  |
 | 股市天才                                               | https://book.douban.com/subject/6395844/  | 8.3*272  |
 | 证券分析师的最佳实践指南                               | https://book.douban.com/subject/10441758/ | 8.3*239  |
 | 约翰.聂夫的成功投资                                    | https://book.douban.com/subject/3060535/  | 8.1*369  |
+| 投资学精要                                             | https://book.douban.com/subject/5330997/  | 9.2*45   |
 |--------------------------------------------------------|-------------------------------------------|----------|
 
 ### Auxilary
@@ -121,7 +125,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.7*620  |
 | 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.6*742  |
 | 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.3*1501 |
-| “错误”的行为                                           | https://book.douban.com/subject/26697774/ | 8.4*983  |
+| "错误"的行为                                           | https://book.douban.com/subject/26697774/ | 8.4*983  |
 | 梦想与浮沉                                             | https://book.douban.com/subject/26695863/ | 8.8*389  |
 | 荣辱20年                                               | https://book.douban.com/subject/4137182/  | 8.2*1460 |
 | 说谎者的扑克牌                                         | https://book.douban.com/subject/1972412/  | 8.1*2791 |
