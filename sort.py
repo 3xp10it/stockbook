@@ -10,8 +10,9 @@ def get_douban_book_score(link):
         rating_num=re.search(r'<strong class="ll rating_num " property="v:average"> (\S+) </strong>',html).group(1)
         rating_people=re.search(r'<a href="collections" class="rating_people"><span property="v:votes">(\d*)</span>人评价</a>',html).group(1)
     except:
-        print("get book score error,check the code")
-        sys.exit(0)
+        #print("get book score error,check the code")
+        rating_num="7.0"
+        rating_people="50"
     return rating_num,rating_people
     
 filename=sys.argv[1]
