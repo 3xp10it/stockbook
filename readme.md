@@ -78,6 +78,8 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 一個投機者的告白之証券心理學                           | https://book.douban.com/subject/1333847/  | 8.8*22   |
 | 被牛市灼伤                                             | https://book.douban.com/subject/3287968/  | 8.7*17   |
 | 战胜庄家                                               | https://book.douban.com/subject/1292290/  | 7.1*56   |
+| 大盘趋势一看就懂                                       | https://book.douban.com/subject/4836317/  | 7.0*50   |
+| 看透大盘：跟操盘高手学炒股                             | https://book.douban.com/subject/30934368/ | 7.0*50   |
 |--------------------------------------------------------|-------------------------------------------|----------|
 
 ### 投资
