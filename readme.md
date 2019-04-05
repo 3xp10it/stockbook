@@ -20,10 +20,10 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 
 | 书名                                                   | 链接                                      | 评分     |
 |--------------------------------------------------------|-------------------------------------------|----------|
-| 期货市场技术分析                                       | https://book.douban.com/subject/1089991/  | 9.1*2053 |
+| 期货市场技术分析                                       | https://book.douban.com/subject/1089991/  | 9.1*2054 |
 | 日本蜡烛图技术                                         | https://book.douban.com/subject/1087737/  | 8.9*3350 |
 | 炒股的智慧                                             | https://book.douban.com/subject/1182173/  | 8.9*2270 |
-| 股票大作手回忆录                                       | https://book.douban.com/subject/5382213/  | 8.9*1864 |
+| 股票大作手回忆录                                       | https://book.douban.com/subject/5382213/  | 8.9*1865 |
 | 史丹·温斯坦称傲牛熊市的秘密                            | https://book.douban.com/subject/3107581/  | 9.0*743  |
 | 专业投机原理                                           | https://book.douban.com/subject/3027464/  | 8.6*1204 |
 | 股票大作手操盘术                                       | https://book.douban.com/subject/1131736/  | 8.6*1195 |
@@ -39,7 +39,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 教你炒股票                                             | https://book.douban.com/subject/25779081/ | 8.7*225  |
 | 期货交易策略                                           | https://book.douban.com/subject/23774479/ | 8.5*295  |
 | 股票魔法师                                             | https://book.douban.com/subject/26274190/ | 8.7*213  |
-| 华尔街幽灵                                             | https://book.douban.com/subject/3027457/  | 8.1*710  |
+| 华尔街幽灵                                             | https://book.douban.com/subject/3027457/  | 8.1*711  |
 | 对冲基金奇才                                           | https://book.douban.com/subject/24153567/ | 8.9*164  |
 | 克罗谈投资策略                                         | https://book.douban.com/subject/1160483/  | 8.0*769  |
 | 股市操练大全                                           | https://book.douban.com/subject/1006415/  | 8.2*366  |
@@ -80,6 +80,10 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 战胜庄家                                               | https://book.douban.com/subject/1292290/  | 7.1*56   |
 | 大盘趋势一看就懂                                       | https://book.douban.com/subject/4836317/  | 7.0*50   |
 | 看透大盘：跟操盘高手学炒股                             | https://book.douban.com/subject/30934368/ | 7.0*50   |
+| 散户别跑:庄家洗盘模式全解析                            | https://book.douban.com/subject/6397670/  | 7.0*50   |
+| 从零开始学跟庄                                         | https://book.douban.com/subject/6975764/  | 7.0*50   |
+| 连续飙升的背后                                         | https://book.douban.com/subject/3664922/  | 7.0*50   |
+| 庄家动向一看就懂                                       | https://book.douban.com/subject/4856492/  | 7.0*50   |
 |--------------------------------------------------------|-------------------------------------------|----------|
 
 ### 投资
