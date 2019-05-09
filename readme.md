@@ -39,7 +39,6 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 股票魔法师                                             | https://book.douban.com/subject/26274190/ | 8.8*233  |
 | 教你炒股票                                             | https://book.douban.com/subject/25779081/ | 8.7*230  |
 | 期货交易策略                                           | https://book.douban.com/subject/23774479/ | 8.5*302  |
-| 说谎者的扑克牌                                         | https://book.douban.com/subject/4010197/  | 8.2*580  |
 | 系统交易方法                                           | https://book.douban.com/subject/1281186/  | 8.6*259  |
 | 对冲基金奇才                                           | https://book.douban.com/subject/24153567/ | 8.9*170  |
 | 华尔街幽灵                                             | https://book.douban.com/subject/3027457/  | 8.1*723  |
@@ -130,7 +129,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 解读基金                                               | https://book.douban.com/subject/2051332/  | 8.4*2334 |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*1157 |
 | 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.7*626  |
-| “错误”的行为                                           | https://book.douban.com/subject/26697774/ | 8.4*1052 |
+| "错误"的行为                                           | https://book.douban.com/subject/26697774/ | 8.4*1052 |
 | 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.5*782  |
 | 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.3*1518 |
 | 梦想与浮沉                                             | https://book.douban.com/subject/26695863/ | 8.8*406  |
@@ -141,7 +140,7 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 大空头                                                 | https://book.douban.com/subject/26415468/ | 8.4*402  |
 | 华尔街:野心不眠                                        | https://book.douban.com/subject/27067316/ | 8.6*209  |
 | 贼巢                                                   | https://book.douban.com/subject/26748262/ | 8.5*221  |
-| 非理性繁荣（第三版）                                   | https://book.douban.com/subject/26803982/ | 8.4*233  |
+| 非理性繁荣(第三版)                                   | https://book.douban.com/subject/26803982/ | 8.4*233  |
 | 拯救华尔街                                             | https://book.douban.com/subject/3596432/  | 8.6*168  |
 | 在股市大崩溃前抛出的人                                 | https://book.douban.com/subject/3393534/  | 8.3*263  |
 | 营救华尔街                                             | https://book.douban.com/subject/1289999/  | 8.7*145  |
