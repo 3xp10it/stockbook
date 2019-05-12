@@ -1,4 +1,5 @@
 import pdb
+import time
 import os
 import re
 import sys
@@ -41,24 +42,27 @@ for line in lines:
     line=groups[0]+"    "+link+"    "+fenshu+"*"+markshu+"\n"
     content_list.append({'line':line,'WR':WR})
 sorted_content_list=sorted(content_list,key=lambda x:x['WR'],reverse=True)
+_time_str=str(time.time())
+sorted_stock_book="sorted_stock_book_%s" % _time_str
+format_stock_book="format_stock_book_%s" % _time_str
 for item in sorted_content_list:
-    with open("sorted_stock_book.txt","a+") as f:
+    with open(sorted_stock_book,"a+") as f:
         f.write(item['line'])
 
 
 
-with open("sorted_stock_book.txt","r+") as f:
+with open(sorted_stock_book,"r+") as f:
     lines=f.readlines()
-with open("format_stock_book.txt","a+") as f:
+with open(format_stock_book,"a+") as f:
     f.write("|书名|链接|评分|\n")
 for line in lines:
     groups=re.split(r"\s+",line)
     line="|"+"|".join(groups)+"\n"
-    with open("format_stock_book.txt","a+") as f:
+    with open(format_stock_book,"a+") as f:
         f.write(line)
-os.system("rm sorted_stock_book.txt")
-print("format finished,please visit https://www.tablesgenerator.com/markdown_tables to paste the content of format_stock_book.txt")
-choose=input("Open format_stock_book.txt? Y|n")
+os.system("rm %s" % sorted_stock_book)
+print("format finished,please visit https://www.tablesgenerator.com/markdown_tables to paste the content of %s" % format_stock_book)
+choose=input("Open %s? Y|n" % format_stock_book)
 if choose not in ['n','N']:
-    os.system("/Applications/MacVim.app/Contents/MacOS/Vim format_stock_book.txt")
-os.system("rm format_stock_book.txt")
+    os.system("/Applications/MacVim.app/Contents/MacOS/Vim %s" % format_stock_book)
+os.system("rm %s" % format_stock_book)

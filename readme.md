@@ -27,7 +27,6 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 史丹·温斯坦称傲牛熊市的秘密                            | https://book.douban.com/subject/3107581/  | 9.0*751  |
 | 专业投机原理                                           | https://book.douban.com/subject/3027464/  | 8.6*1215 |
 | 股票大作手操盘术                                       | https://book.douban.com/subject/1131736/  | 8.6*1205 |
-| 金融炼金术                                             | https://book.douban.com/subject/1058131/  | 8.4*2327 |
 | 金融市场技术分析                                       | https://book.douban.com/subject/4906492/  | 8.9*493  |
 | 海龟交易法则                                           | https://book.douban.com/subject/2339892/  | 8.4*1413 |
 | 通向财务自由之路                                       | https://book.douban.com/subject/2382899/  | 8.4*1155 |
@@ -130,11 +129,12 @@ C = the mean vote across the whole report (currently 7.0) -所有影片的平均
 | 伟大的博弈                                             | https://book.douban.com/subject/4012143/  | 8.6*1987 |
 | 富可敌国                                               | https://book.douban.com/subject/5914480/  | 8.7*938  |
 | 解读基金                                               | https://book.douban.com/subject/2051332/  | 8.4*2340 |
+| 金融炼金术                                             | https://book.douban.com/subject/1058131/  | 8.4*2327 |
 | 逃不开的经济周期                                       | https://book.douban.com/subject/20272113/ | 8.5*1161 |
 | 中国证券市场批判                                       | https://book.douban.com/subject/1417775/  | 8.7*627  |
-| "错误"的行为                                           | https://book.douban.com/subject/26697774/ | 8.4*1055 |
+| "错误"的行为                                           | https://book.douban.com/subject/26697774/ | 8.4*1056 |
 | 笑傲股市                                               | https://book.douban.com/subject/4244804/  | 8.5*784  |
-| 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.3*1521 |
+| 十年一梦                                               | https://book.douban.com/subject/1692957/  | 8.3*1522 |
 | 梦想与浮沉                                             | https://book.douban.com/subject/26695863/ | 8.8*407  |
 | 荣辱20年                                               | https://book.douban.com/subject/4137182/  | 8.2*1473 |
 | 投资交易笔记                                           | https://book.douban.com/subject/6736909/  | 8.6*451  |
