@@ -4,18 +4,19 @@ import os
 import re
 import sys
 import requests
+chrome_headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36','Cookie'}
 def get_douban_book_score(link):
-    rsp=requests.get(link)
+    rsp=requests.get(link,headers=chrome_headers)
     html=rsp.text
     try:
         rating_num=re.search(r'<strong class="ll rating_num " property="v:average"> (\S+) </strong>',html).group(1)
-        rating_people=re.search(r'<a href="collections" class="rating_people"><span property="v:votes">(\d*)</span>人评价</a>',html).group(1)
+        rating_people=re.search(r'class="rating_people"><span property="v:votes">(\d*)</span>人评价</a>',html).group(1)
     except:
         #print("get book score error,check the code")
         rating_num="7.0"
         rating_people="50"
     return rating_num,rating_people
-    
+
 filename=sys.argv[1]
 with open(filename,"r+") as f:
     lines=f.readlines()
@@ -33,6 +34,8 @@ C=7.5
 
 for line in lines:
     link=re.search(r"(http\S+)",line).group(1)
+    #这里不sleep会被ban
+    time.sleep(3)
     fenshu,markshu=get_douban_book_score(link)
     groups=re.split("\s",line)
     R=float(fenshu)
