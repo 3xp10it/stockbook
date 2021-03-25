@@ -85,7 +85,7 @@ C = the mean vote across the whole report (currently 7.0) -所有书籍的平均
 | 战胜庄家                                               | https://book.douban.com/subject/1292290/  | 7.4*73   |
 | 香象渡河                                               | https://book.douban.com/subject/34872356/ | 7.0*32   |
 | 大盘趋势一看就懂                                       | https://book.douban.com/subject/4836317/  | 7.0*50   |
-| 看透大盘：跟操盘高手学炒股                             | https://book.douban.com/subject/30934368/ | 7.0*50   |
+| 看透大盘:跟操盘高手学炒股                             | https://book.douban.com/subject/30934368/ | 7.0*50   |
 | 从零开始学跟庄                                         | https://book.douban.com/subject/6975764/  | 7.0*50   |
 | 连续飙升的背后                                         | https://book.douban.com/subject/3664922/  | 7.0*50   |
 | 庄家动向一看就懂                                       | https://book.douban.com/subject/4856492/  | 7.0*50   |
@@ -96,21 +96,22 @@ C = the mean vote across the whole report (currently 7.0) -所有书籍的平均
 
 | 书名                                                   | 链接                                      | 评分      |
 |--------------------------------------------------------|-------------------------------------------|-----------|
-| 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 8.9*13391 |
-| 彼得·林奇的成功投资                                    | https://book.douban.com/subject/4827219/  | 9.1*2447  |
-| 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 8.9*6365  |
-| 一本书读懂财报                                         | https://book.douban.com/subject/25926542/ | 8.9*5990  |
+| 穷查理宝典                                             | https://book.douban.com/subject/5346110/  | 8.9*13395 |
+| 彼得·林奇的成功投资                                    | https://book.douban.com/subject/4827219/  | 9.1*2449  |
+| 聪明的投资者                                           | https://book.douban.com/subject/5243775/  | 8.9*6370  |
+| 一本书读懂财报                                         | https://book.douban.com/subject/25926542/ | 8.9*5994  |
 | 证券分析                                               | https://book.douban.com/subject/24092345/ | 9.1*1413  |
-| 投资中最简单的事                                       | https://book.douban.com/subject/26163553/ | 8.7*7669  |
+| 投资中最简单的事                                       | https://book.douban.com/subject/26163553/ | 8.7*7678  |
 | 股市真规则                                             | https://book.douban.com/subject/1728725/  | 9.0*1437  |
-| 投资最重要的事                                         | https://book.douban.com/subject/10799082/ | 8.7*5173  |
-| 手把手教你读财报                                       | https://book.douban.com/subject/26290085/ | 8.7*3648  |
-| 股市进阶之道                                           | https://book.douban.com/subject/25829645/ | 8.8*2041  |
+| 投资最重要的事                                         | https://book.douban.com/subject/10799082/ | 8.7*5177  |
+| 手把手教你读财报                                       | https://book.douban.com/subject/26290085/ | 8.7*3650  |
+| 股市进阶之道                                           | https://book.douban.com/subject/25829645/ | 8.8*2040  |
+| 巴芒演义                                               | https://book.douban.com/subject/35025832/ | 9.0*755   |
 | 策略投资                                               | https://book.douban.com/subject/10568233/ | 9.0*574   |
 | 巴菲特的护城河                                         | https://book.douban.com/subject/4100680/  | 8.5*1712  |
 | 怎样选择成长股                                         | https://book.douban.com/subject/1007459/  | 8.5*1577  |
-| 战胜华尔街                                             | https://book.douban.com/subject/2189613/  | 8.4*2488  |
-| 漫步华尔街                                             | https://book.douban.com/subject/3043970/  | 8.4*2095  |
+| 战胜华尔街                                             | https://book.douban.com/subject/2189613/  | 8.4*2489  |
+| 漫步华尔街                                             | https://book.douban.com/subject/3043970/  | 8.4*2097  |
 | 投资学                                                 | https://book.douban.com/subject/1420638/  | 8.4*1557  |
 | 公司基本面分析实务                                     | https://book.douban.com/subject/10550974/ | 8.7*491   |
 | 金融学                                                 | https://book.douban.com/subject/1017213/  | 8.4*855   |

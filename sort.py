@@ -4,7 +4,7 @@ import os
 import re
 import sys
 import requests
-chrome_headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36','Cookie'}
+chrome_headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36'}
 def get_douban_book_score(link):
     rsp=requests.get(link,headers=chrome_headers)
     html=rsp.text
